@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cece77f9.css",
-    "main.js": "/static/js/main.bf818e34.js",
+    "main.css": "/static/css/main.c5a46250.css",
+    "main.js": "/static/js/main.cc61aac4.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/bus.png": "/static/media/bus.46bc14b07e5d17c47107.png",
     "static/media/mailchimp.png": "/static/media/mailchimp.f05bf175c904ae92e552.png",
@@ -9,12 +9,12 @@
     "static/media/chex_shirt_-removebg2.png": "/static/media/chex_shirt_-removebg2.b609636f1f15d5605087.png",
     "static/media/hibernate_logo_icon_171004.png": "/static/media/hibernate_logo_icon_171004.0f831ba1ff65177e69e0.png",
     "index.html": "/index.html",
-    "main.cece77f9.css.map": "/static/css/main.cece77f9.css.map",
-    "main.bf818e34.js.map": "/static/js/main.bf818e34.js.map",
+    "main.c5a46250.css.map": "/static/css/main.c5a46250.css.map",
+    "main.cc61aac4.js.map": "/static/js/main.cc61aac4.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cece77f9.css",
-    "static/js/main.bf818e34.js"
+    "static/css/main.c5a46250.css",
+    "static/js/main.cc61aac4.js"
   ]
 }
