@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c5a46250.css",
-    "main.js": "/static/js/main.97704bce.js",
+    "main.js": "/static/js/main.c1abee56.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/bus.png": "/static/media/bus.46bc14b07e5d17c47107.png",
     "static/media/mailchimp.png": "/static/media/mailchimp.f05bf175c904ae92e552.png",
@@ -11,11 +11,11 @@
     "static/media/hibernate_logo_icon_171004.png": "/static/media/hibernate_logo_icon_171004.0f831ba1ff65177e69e0.png",
     "index.html": "/index.html",
     "main.c5a46250.css.map": "/static/css/main.c5a46250.css.map",
-    "main.97704bce.js.map": "/static/js/main.97704bce.js.map",
+    "main.c1abee56.js.map": "/static/js/main.c1abee56.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5a46250.css",
-    "static/js/main.97704bce.js"
+    "static/js/main.c1abee56.js"
   ]
 }
