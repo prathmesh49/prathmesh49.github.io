@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.c5a46250.css",
-    "main.js": "/static/js/main.cc61aac4.js",
+    "main.js": "/static/js/main.1bda1688.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/bus.png": "/static/media/bus.46bc14b07e5d17c47107.png",
     "static/media/mailchimp.png": "/static/media/mailchimp.f05bf175c904ae92e552.png",
     "static/media/fitness.png": "/static/media/fitness.24b8c4e84befa40ff988.png",
     "static/media/chex_shirt_-removebg2.png": "/static/media/chex_shirt_-removebg2.b609636f1f15d5605087.png",
+    "static/media/Prathmesh_Kurane_Resume.pdf": "/static/media/Prathmesh_Kurane_Resume.4a8007c7e97c54e4d956.pdf",
     "static/media/hibernate_logo_icon_171004.png": "/static/media/hibernate_logo_icon_171004.0f831ba1ff65177e69e0.png",
     "index.html": "/index.html",
     "main.c5a46250.css.map": "/static/css/main.c5a46250.css.map",
-    "main.cc61aac4.js.map": "/static/js/main.cc61aac4.js.map",
+    "main.1bda1688.js.map": "/static/js/main.1bda1688.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5a46250.css",
-    "static/js/main.cc61aac4.js"
+    "static/js/main.1bda1688.js"
   ]
 }
